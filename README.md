@@ -19,7 +19,7 @@ This project demonstrates how to fine-tune a vision AI model for recognizing flu
 
 2. Clone the repository:
    ```bash
-   git clone https://github.com/ictBioRtc/finetune_vision_ai_model.git
+   git clone https://github.com/ictBioRtc/finetune_florence2_vision_language_model.git
    ```
 
 3. Navigate to project directory:
